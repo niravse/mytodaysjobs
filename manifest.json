@@ -1,6 +1,6 @@
 {
-    "name": "jobfinder_website",
-    "short_name": "jobfinder_website",
+    "name": "mytodaysjobs",
+    "short_name": "mytodaysjobs",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
